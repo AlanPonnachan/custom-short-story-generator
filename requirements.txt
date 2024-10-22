@@ -1,0 +1,8 @@
+gradio>=3.0.0
+llama-cpp-python==0.2.69
+langchain>=0.1.17
+transformers>=4.40.1
+langchain_community
+torch
+numpy
+
